@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de un archivo `README.md` bien estructurado que puedes usar para tu proyecto:
-
-```markdown
 # Algoritmo MLQ (Multi-Level Queue Scheduling)
 
 Este repositorio contiene la implementación del algoritmo de planificación Multi-Level Queue (MLQ), utilizando el paradigma de programación orientada a objetos en Python. El objetivo del proyecto es simular la planificación de procesos en un sistema operativo utilizando colas multinivel con diferentes políticas de planificación, como Round Robin (RR), Shortest Job First (SJF), y First Come First Served (FCFS).
