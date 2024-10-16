@@ -144,7 +144,3 @@ Un video con la explicación de la implementación y la ejecución de los archiv
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-```
-
-```
