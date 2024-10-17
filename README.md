@@ -2,6 +2,9 @@
 
 Este repositorio contiene la implementación del algoritmo de planificación Multi-Level Queue (MLQ), utilizando el paradigma de programación orientada a objetos en Python. El objetivo del proyecto es simular la planificación de procesos en un sistema operativo utilizando colas multinivel con diferentes políticas de planificación, como Round Robin (RR), Shortest Job First (SJF), y First Come First Served (FCFS).
 
+### INFORME
+Informe del Proyecto: Simulador de Planificación de Procesos con MLQ (Multilevel Queue)
+
 ## Información del estudiante
 
 - **Nombre**: León Alejandro Flor Sandoval
