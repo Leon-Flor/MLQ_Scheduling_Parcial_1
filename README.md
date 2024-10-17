@@ -6,6 +6,10 @@ Este repositorio contiene la implementación del algoritmo de planificación Mul
 ### [**Informe del Proyecto: Simulador de Planificación de Procesos con MLQ (Multilevel Queue)**](https://docs.google.com/document/d/1nU4pl-KyjaKm0x9StUpMeIPZFSxPriG-ZMirk30kQok/edit?usp=sharing)
 
 
+# **VIDEO EXPLICATIVO**
+### [**VIDEO EXPLICATIVO**](https://drive.google.com/drive/folders/1UiYsiddfUGc_hzdxfiu9zSRlZJaBvqqc?usp=sharing)
+
+
 ## Información del estudiante
 
 - **Nombre**: León Alejandro Flor Sandoval
